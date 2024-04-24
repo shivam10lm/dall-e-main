@@ -1,0 +1,7 @@
+OPENAI_API_KEY = "sk-proj-A6n6qHmcv0lnI9jWheBZT3BlbkFJJSdm8y81O7XOzobLhsl8";
+MONGODB_URL = "mongodb+srv://shivamgpt34:sxmhyobw@cluster0.t5gzcnq.mongodb.net/?retryWrites=true&w=majority";
+
+CLOUDINARY_CLOUD_NAME = "dpxqysjyy";
+CLOUDINARY_API_KEY = "342813225486881";
+CLOUDINARY_API_SECRET = "aLZCmrt70xCh3H-d-vVE8o1FN-Y";
+
